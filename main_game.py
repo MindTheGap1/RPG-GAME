@@ -7,4 +7,4 @@
 
 ##Hello non-devs too :)
 
-from Mel_funcs import *
+from mel_funcs import *
