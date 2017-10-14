@@ -1,0 +1,7 @@
+Story
+[Write the plot, story line, etc. either in here or collaborate in google docs or something and put the final version in here.]
+
+>Game starts off with a computer that boots up and when you enter your name tries to find you in it's database.
+>It cannot find you..which means you technically don't exist.
+
+>continue from here: 
